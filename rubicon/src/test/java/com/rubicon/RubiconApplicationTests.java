@@ -1,4 +1,4 @@
-package com.springboot;
+package com.rubicon;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
